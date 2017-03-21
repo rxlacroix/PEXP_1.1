@@ -1,0 +1,13 @@
+letter	number	name	frequency	specialisation
+C10	2	Chemical Engineering	0.0377	1.232
+C2	4	Biotechnology	0.0755	2.6678
+C5	2	Food chemistery	0.0377	3.2783
+D2	3	Machine Tools	0.0566	1.7469
+D3	2	Engines, Pumps, Turbines	0.0377	1.1187
+D4	6	Textile and Paper Machines	0.1132	4.2239
+D5	5	Other Special Machines	0.0943	2.3634
+D7	5	Mechanical Elements	0.0943	2.3056
+D8	1	Transport	0.0189	0.3287
+E1	6	Furniture, Games	0.1132	4.7364
+E2	6	Other Consumer Goods	0.1132	5.2166
+E3	11	Civil Engineering	0.2075	4.3592

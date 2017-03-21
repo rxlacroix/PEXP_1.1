@@ -1,0 +1,13 @@
+letter	number	name	frequency	specialisation
+A1	5	Electrical Machinery, apparatus, energy	0.0943	1.5691
+A6	1	Computer Technology	0.0189	0.5833
+B2	2	Measurement	0.0377	0.7586
+B4	1	Control	0.0189	1.1962
+C10	3	Chemical Engineering	0.0566	1.8497
+C11	5	Environmental Technology	0.0943	6.2039
+C2	2	Biotechnology	0.0377	1.3322
+D1	5	Handling	0.0943	2.2136
+D5	4	Other Special Machines	0.0755	1.8922
+D6	11	Thermal Processes and Apparatus	0.2075	10.1716
+D7	4	Mechanical Elements	0.0755	1.846
+E3	10	Civil Engineering	0.1887	3.9643

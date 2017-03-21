@@ -1,0 +1,33 @@
+letter	number	name	frequency	specialisation
+A1	5	Electrical Machinery, apparatus, energy	0.0192	0.3195
+A2	1	Audio-Visual Technology	0.0038	0.1434
+A3	7	Telecommunications	0.0268	1.0388
+A4	2	Digital Communication	0.0077	0.2194
+A5	1	Basic Communication Processes	0.0038	0.3878
+A6	2	Computer Technology	0.0077	0.2377
+B1	3	Optics	0.0115	0.6085
+B2	8	Measurement	0.0307	0.6177
+B3	1	Analysis of Biological Materials	0.0038	0.481
+B4	3	Control	0.0115	0.7278
+B5	9	Medical Technology	0.0345	0.7468
+C1	7	Organic Fine Chemistery	0.0268	0.5839
+C10	1	Chemical Engineering	0.0038	0.1242
+C11	47	Environmental Technology	0.1801	11.8487
+C2	7	Biotechnology	0.0268	0.947
+C3	39	Pharmaceuticals	0.1494	3.4664
+C4	1	Macromolecular chemistery, polymers	0.0038	0.1445
+C5	2	Food chemistery	0.0077	0.6696
+C6	10	Basic materials chemistery	0.0383	1.3534
+C7	4	Materials, metallurgy	0.0153	0.75
+C8	10	Surface technology, coating	0.0383	2.6054
+D1	16	Handling	0.0613	1.439
+D2	12	Machine Tools	0.046	1.4198
+D3	3	Engines, Pumps, Turbines	0.0115	0.3412
+D4	4	Textile and Paper Machines	0.0153	0.5709
+D5	12	Other Special Machines	0.046	1.1529
+D6	7	Thermal Processes and Apparatus	0.0268	1.3137
+D7	2	Mechanical Elements	0.0077	0.1883
+D8	7	Transport	0.0268	0.4661
+E1	1	Furniture, Games	0.0038	0.159
+E2	3	Other Consumer Goods	0.0115	0.53
+E3	24	Civil Engineering	0.092	1.9328

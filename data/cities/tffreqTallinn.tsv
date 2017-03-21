@@ -1,0 +1,13 @@
+letter	number	name	frequency	specialisation
+A1	1	Electrical Machinery, apparatus, energy	0.0357	0.594
+A2	2	Audio-Visual Technology	0.0714	2.6943
+A4	2	Digital Communication	0.0714	2.0342
+A7	3	IT Methods for Management	0.1071	25.5
+B1	1	Optics	0.0357	1.8889
+B2	2	Measurement	0.0714	1.4366
+B4	1	Control	0.0357	2.2595
+C10	1	Chemical Engineering	0.0357	1.1667
+C6	1	Basic materials chemistery	0.0357	1.2615
+D8	3	Transport	0.1071	1.8626
+E2	4	Other Consumer Goods	0.1429	6.5853
+E3	7	Civil Engineering	0.25	5.2521

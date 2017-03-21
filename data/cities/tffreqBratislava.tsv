@@ -1,0 +1,14 @@
+letter	number	name	frequency	specialisation
+A5	1	Basic Communication Processes	0.0303	3.0918
+B2	2	Measurement	0.0606	1.2193
+B3	1	Analysis of Biological Materials	0.0303	3.8354
+B4	3	Control	0.0909	5.7532
+C11	1	Environmental Technology	0.0303	1.9934
+C2	2	Biotechnology	0.0606	2.1413
+C4	1	Macromolecular chemistery, polymers	0.0303	1.1521
+C6	4	Basic materials chemistery	0.1212	4.2827
+C8	2	Surface technology, coating	0.0606	4.1224
+D2	6	Machine Tools	0.1818	5.6111
+D6	1	Thermal Processes and Apparatus	0.0303	1.4853
+D8	2	Transport	0.0606	1.0539
+E3	7	Civil Engineering	0.2121	4.4559

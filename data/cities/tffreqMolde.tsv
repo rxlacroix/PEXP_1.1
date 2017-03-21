@@ -1,0 +1,12 @@
+letter	number	name	frequency	specialisation
+A1	1	Electrical Machinery, apparatus, energy	0.0278	0.4626
+C2	2	Biotechnology	0.0556	1.9647
+D1	2	Handling	0.0556	1.3052
+D3	1	Engines, Pumps, Turbines	0.0278	0.8249
+D4	1	Textile and Paper Machines	0.0278	1.0373
+D5	2	Other Special Machines	0.0556	1.3935
+D6	2	Thermal Processes and Apparatus	0.0556	2.7255
+D7	4	Mechanical Elements	0.1111	2.7164
+D8	11	Transport	0.3056	5.3148
+E1	9	Furniture, Games	0.25	10.4603
+E3	1	Civil Engineering	0.0278	0.584

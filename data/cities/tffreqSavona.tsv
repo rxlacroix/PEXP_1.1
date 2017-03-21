@@ -1,0 +1,11 @@
+letter	number	name	frequency	specialisation
+A1	1	Electrical Machinery, apparatus, energy	0.0385	0.6406
+A3	2	Telecommunications	0.0769	2.9806
+B2	3	Measurement	0.1154	2.3219
+B4	2	Control	0.0769	4.8671
+C1	1	Organic Fine Chemistery	0.0385	0.8388
+C3	4	Pharmaceuticals	0.1538	3.5684
+C6	1	Basic materials chemistery	0.0385	1.3604
+C7	2	Materials, metallurgy	0.0769	3.7696
+D3	4	Engines, Pumps, Turbines	0.1538	4.5638
+D5	6	Other Special Machines	0.2308	5.7845

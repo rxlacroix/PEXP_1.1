@@ -1,0 +1,20 @@
+letter	number	name	frequency	specialisation
+A2	1	Audio-Visual Technology	0.0159	0.6
+A3	1	Telecommunications	0.0159	0.6163
+A6	1	Computer Technology	0.0159	0.4907
+B2	1	Measurement	0.0159	0.3199
+B4	2	Control	0.0317	2.0063
+B5	2	Medical Technology	0.0317	0.6861
+C10	2	Chemical Engineering	0.0317	1.0359
+C11	6	Environmental Technology	0.0952	6.2632
+C2	2	Biotechnology	0.0317	1.1201
+C5	4	Food chemistery	0.0635	5.5217
+C8	3	Surface technology, coating	0.0476	3.2381
+D1	4	Handling	0.0635	1.4906
+D2	2	Machine Tools	0.0317	0.9784
+D3	1	Engines, Pumps, Turbines	0.0159	0.4718
+D5	4	Other Special Machines	0.0635	1.5915
+D6	7	Thermal Processes and Apparatus	0.1111	5.4461
+D8	13	Transport	0.2063	3.5878
+E1	1	Furniture, Games	0.0159	0.6653
+E3	6	Civil Engineering	0.0952	2

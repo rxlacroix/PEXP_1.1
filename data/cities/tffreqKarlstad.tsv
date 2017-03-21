@@ -1,0 +1,20 @@
+letter	number	name	frequency	specialisation
+B2	2	Measurement	0.0267	0.5372
+B4	1	Control	0.0133	0.8418
+C10	4	Chemical Engineering	0.0533	1.7418
+C11	2	Environmental Technology	0.0267	1.7566
+C3	1	Pharmaceuticals	0.0133	0.3086
+C6	1	Basic materials chemistery	0.0133	0.47
+C7	11	Materials, metallurgy	0.1467	7.1912
+C8	1	Surface technology, coating	0.0133	0.9048
+D1	3	Handling	0.04	0.939
+D2	3	Machine Tools	0.04	1.2346
+D3	4	Engines, Pumps, Turbines	0.0533	1.5816
+D4	11	Textile and Paper Machines	0.1467	5.4739
+D5	2	Other Special Machines	0.0267	0.6692
+D6	6	Thermal Processes and Apparatus	0.08	3.9216
+D7	10	Mechanical Elements	0.1333	3.2592
+D8	2	Transport	0.0267	0.4643
+E1	3	Furniture, Games	0.04	1.6736
+E2	1	Other Consumer Goods	0.0133	0.6129
+E3	7	Civil Engineering	0.0933	1.9601

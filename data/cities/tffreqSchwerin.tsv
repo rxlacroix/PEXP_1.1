@@ -1,0 +1,26 @@
+letter	number	name	frequency	specialisation
+A1	3	Electrical Machinery, apparatus, energy	0.0105	0.1747
+A2	3	Audio-Visual Technology	0.0105	0.3962
+A3	5	Telecommunications	0.0174	0.6744
+A6	1	Computer Technology	0.0035	0.108
+A7	1	IT Methods for Management	0.0035	0.8333
+B1	52	Optics	0.1812	9.5873
+B2	43	Measurement	0.1498	3.0141
+B3	16	Analysis of Biological Materials	0.0557	7.0506
+B4	4	Control	0.0139	0.8797
+B5	18	Medical Technology	0.0627	1.3571
+C11	5	Environmental Technology	0.0174	1.1447
+C2	2	Biotechnology	0.007	0.2473
+C4	4	Macromolecular chemistery, polymers	0.0139	0.5285
+C6	4	Basic materials chemistery	0.0139	0.4912
+D1	50	Handling	0.1742	4.0892
+D2	8	Machine Tools	0.0279	0.8611
+D3	1	Engines, Pumps, Turbines	0.0035	0.1039
+D4	3	Textile and Paper Machines	0.0105	0.3918
+D5	15	Other Special Machines	0.0523	1.3108
+D6	2	Thermal Processes and Apparatus	0.007	0.3431
+D7	4	Mechanical Elements	0.0139	0.3399
+D8	6	Transport	0.0209	0.3635
+E1	1	Furniture, Games	0.0035	0.1464
+E2	11	Other Consumer Goods	0.0383	1.765
+E3	25	Civil Engineering	0.0871	1.8298

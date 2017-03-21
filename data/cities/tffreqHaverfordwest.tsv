@@ -1,0 +1,12 @@
+letter	number	name	frequency	specialisation
+B5	6	Medical Technology	0.1463	3.1667
+C2	2	Biotechnology	0.0488	1.7244
+C3	3	Pharmaceuticals	0.0732	1.6984
+C6	1	Basic materials chemistery	0.0244	0.8622
+C8	3	Surface technology, coating	0.0732	4.9796
+D1	3	Handling	0.0732	1.7183
+D5	6	Other Special Machines	0.1463	3.6667
+D6	4	Thermal Processes and Apparatus	0.0976	4.7843
+D7	3	Mechanical Elements	0.0732	1.7897
+D8	6	Transport	0.1463	2.5443
+E2	4	Other Consumer Goods	0.0976	4.4977

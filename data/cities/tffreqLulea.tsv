@@ -1,0 +1,16 @@
+letter	number	name	frequency	specialisation
+A4	1	Digital Communication	0.0156	0.4444
+B1	2	Optics	0.0312	1.6508
+B2	4	Measurement	0.0625	1.2575
+B4	2	Control	0.0312	1.9747
+B5	1	Medical Technology	0.0156	0.3377
+C11	1	Environmental Technology	0.0156	1.0263
+C6	8	Basic materials chemistery	0.125	4.417
+C7	2	Materials, metallurgy	0.0312	1.5294
+C8	1	Surface technology, coating	0.0156	1.0612
+D1	5	Handling	0.0781	1.8333
+D2	2	Machine Tools	0.0312	0.963
+D6	5	Thermal Processes and Apparatus	0.0781	3.8284
+D7	2	Mechanical Elements	0.0312	0.7628
+D8	17	Transport	0.2656	4.6191
+E3	11	Civil Engineering	0.1719	3.6113

@@ -1,0 +1,15 @@
+letter	number	name	frequency	specialisation
+A1	4	Electrical Machinery, apparatus, energy	0.0851	1.416
+A5	1	Basic Communication Processes	0.0213	2.1735
+A7	1	IT Methods for Management	0.0213	5.0714
+B5	5	Medical Technology	0.1064	2.303
+C10	2	Chemical Engineering	0.0426	1.3922
+C3	4	Pharmaceuticals	0.0851	1.9745
+C7	5	Materials, metallurgy	0.1064	5.2157
+D2	3	Machine Tools	0.0638	1.9691
+D3	7	Engines, Pumps, Turbines	0.1489	4.4184
+D4	2	Textile and Paper Machines	0.0426	1.5896
+D5	2	Other Special Machines	0.0426	1.0677
+D7	1	Mechanical Elements	0.0213	0.5208
+D8	2	Transport	0.0426	0.7409
+E3	8	Civil Engineering	0.1702	3.5756

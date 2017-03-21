@@ -1,0 +1,18 @@
+letter	number	name	frequency	specialisation
+B4	4	Control	0.0625	3.9557
+B5	5	Medical Technology	0.0781	1.6905
+C1	3	Organic Fine Chemistery	0.0469	1.0218
+C10	1	Chemical Engineering	0.0156	0.5098
+C11	3	Environmental Technology	0.0469	3.0855
+C3	6	Pharmaceuticals	0.0938	2.1763
+C5	1	Food chemistery	0.0156	1.3565
+C6	1	Basic materials chemistery	0.0156	0.5512
+C8	3	Surface technology, coating	0.0469	3.1905
+D1	1	Handling	0.0156	0.3662
+D2	3	Machine Tools	0.0469	1.4475
+D3	1	Engines, Pumps, Turbines	0.0156	0.4629
+D5	14	Other Special Machines	0.2188	5.4837
+D6	2	Thermal Processes and Apparatus	0.0312	1.5294
+D7	1	Mechanical Elements	0.0156	0.3814
+E1	1	Furniture, Games	0.0156	0.6527
+E3	14	Civil Engineering	0.2188	4.5966

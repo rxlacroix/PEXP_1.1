@@ -1,0 +1,36 @@
+letter	frequency	name	number
+A1	.0601	"Electrical Machinery, apparatus, energy"	91720
+A2	.0265	"Audio-Visual Technology"	40417
+A3	.0258	"Telecommunications"	39461
+A4	.0351	"Digital Communication"	53619
+A5	.0098	"Basic Communication Processes"	14940
+A6	.0324	"Computer Technology"	49446
+A7	.0042	"IT Methods for Management"	6372
+A8	.0151	"Semiconductors"	23123
+B1	.0189	"Optics"	28810
+B2	.0497	"Measurement"	75952
+B3	.0079	"Analysis of Biological Materials"	12064
+B4	.0158	"Control"	24116
+B5	.0462	"Medical Technology"	70503
+C1	.0459	"Organic Fine Chemistery"	70025
+C2	.0283	"Biotechnology"	43252
+C3	.0431	"Pharmaceuticals"	65767
+C4	.0263	"Macromolecular chemistery, polymers"	40228
+C5	.0115	"Food chemistery"	17489
+C6	.0283	"Basic materials chemistery"	43249
+C7	.0204	"Materials, metallurgy"	31127
+C8	.0147	"Surface technology, coating"	22420
+C9	.0006	"Micro-structural and nano-technology"	964
+C10	.0306	"Chemical Engineering"	46722
+C11	.0152	"Environmental Technology"	23251
+D1	.0426	"Handling"	65023
+D2	.0324	"Machine Tools"	49429
+D3	.0337	"Engines, Pumps, Turbines"	51495
+D4	.0268	"Textile and Paper Machines"	40928
+D5	.0399	"Other Special Machines"	61056
+D6	.0204	"Thermal Processes and Apparatus"	31166
+D7	.0409	"Mechanical Elements"	62476
+D8	.0575	"Transport"	87849
+E1	.0239	"Furniture, Games"	36473
+E2	.0217	"Other Consumer Goods"	33174
+E3	.0476	"Civil Engineering"	72710

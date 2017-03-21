@@ -1,0 +1,36 @@
+letter	number	name	frequency	specialisation
+A1	4987	Electrical Machinery, apparatus, energy	0.0814	1.3544
+A2	1783	Audio-Visual Technology	0.0291	1.0981
+A3	2649	Telecommunications	0.0432	1.6744
+A4	2421	Digital Communication	0.0395	1.1254
+A5	694	Basic Communication Processes	0.0113	1.1531
+A6	1655	Computer Technology	0.027	0.8333
+A7	116	IT Methods for Management	0.0019	0.4524
+A8	932	Semiconductors	0.0152	1.0066
+B1	1467	Optics	0.0239	1.2646
+B2	2747	Measurement	0.0448	0.9014
+B3	169	Analysis of Biological Materials	0.0028	0.3544
+B4	1045	Control	0.017	1.0759
+B5	1499	Medical Technology	0.0245	0.5303
+C1	8137	Organic Fine Chemistery	0.1327	2.8911
+C10	1756	Chemical Engineering	0.0286	0.9346
+C11	807	Environmental Technology	0.0132	0.8684
+C2	946	Biotechnology	0.0154	0.5442
+C3	2254	Pharmaceuticals	0.0368	0.8538
+C4	1465	Macromolecular chemistery, polymers	0.0239	0.9087
+C5	292	Food chemistery	0.0048	0.4174
+C6	1349	Basic materials chemistery	0.022	0.7774
+C7	1947	Materials, metallurgy	0.0318	1.5588
+C8	861	Surface technology, coating	0.014	0.9524
+C9	27	Micro-structural and nano-technology	4e-04	0.6667
+D1	1163	Handling	0.019	0.446
+D2	1052	Machine Tools	0.0172	0.5309
+D3	2363	Engines, Pumps, Turbines	0.0386	1.1454
+D4	469	Textile and Paper Machines	0.0077	0.2873
+D5	1803	Other Special Machines	0.0294	0.7368
+D6	1196	Thermal Processes and Apparatus	0.0195	0.9559
+D7	2751	Mechanical Elements	0.0449	1.0978
+D8	5093	Transport	0.0831	1.4452
+E1	350	Furniture, Games	0.0057	0.2385
+E2	1085	Other Consumer Goods	0.0177	0.8157
+E3	1966	Civil Engineering	0.0321	0.6744
