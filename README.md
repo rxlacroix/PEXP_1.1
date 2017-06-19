@@ -33,7 +33,7 @@ Les brevets sont des documents intéressants pour l'analyse, car ils contiennent
 + la classification du brevet (selon une nomenclature officielle établie par l'Organisation Mondiale de la Propriété Industrielle).  
 
 
-Puisque l'intérêt se porte ici sur les brevets en Europe, seront considérés les brevets déposés à l'Office Européen des Brevets. Cette agence dispose d'une base de données nommée _PATSTAT_, elle nous est accessible par un FTP de l'OCDE ([ftp://ftp.oecd.org]) qui a effectué un prétraitement dessus.
+Puisque l'intérêt se porte ici sur les brevets en Europe, seront considérés les brevets déposés à l'Office Européen des Brevets. Cette agence dispose d'une base de données nommée _PATSTAT_, elle nous est accessible par un [FTP](ftp://ftp.oecd.org) de l'OCDE qui a effectué un prétraitement dessus.
 
 
 Un fichier (REGPAT) comporte les localisations de ces brevets : à partir des adresses des _applicants_ et des inventeurs indiquées, un script de reconnaissance de texte y a fait correspondre une ville et d'ici, a été rattaché à un NUTS 3 (Nomenclature des Unités Territoriales Statistiques de niveau 3, par exemple un département français ou un canton suisse). 
