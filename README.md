@@ -11,7 +11,7 @@ Le but de cette application web est théoriquement assez simple:
 + des points sont placés sur une carte: ces points correspondent aux villes européennes, ou plus exactement aux aires urbaines fonctionnelles (FUA);
 + entre ces villes sont présents des liens, des relations technologiques qui correspondent aux citations que les brevets localisés dans une ville font vers des brevets localisés dans d'autres villes, mais également dans la ville-source;
 + à partir de cela, des statistiques peuvent être inférées de ces brevets sur les spécialisations technologiques des villes ou sur des partenaires plus ou moins importants dans les différentes villes;
-+ toutes les informations sont préalablement traitées, simplifiées et représentées afin de les rendre accessibles à un public \textit{a minima} un petit peu plus large que les seuls experts et institutions intéressés par ces questions.
++ toutes les informations sont préalablement traitées, simplifiées et représentées afin de les rendre accessibles à un public _a minima_ un petit peu plus large que les seuls experts et institutions intéressés par ces questions.
 
 ## Public cible
 
