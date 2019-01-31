@@ -81,7 +81,7 @@ Pour l'application web, je m'étais fixé sur la maquette suivante :
 
 Cela nous aurait donc fait 3 blocs de visualisation de données, liés dynamiquement entre eux, que l'on agrémenterait d'éléments de présentation et informatifs.
 
-# Technologies utilisée
+# Technologies utilisées
 
 La création des données et leurs manipulations ont été effectuées via R.
 
